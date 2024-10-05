@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alif Rayhan
+### Hi there 👋, I'm Alif Rayhan
 #### "Future Web Developer | Coding Solutions for Tomorrow's Web"
 I'm a web development student passionate about building clean, responsive, and user-friendly websites. I enjoy learning new technologies and applying them to create dynamic web experiences.
 
