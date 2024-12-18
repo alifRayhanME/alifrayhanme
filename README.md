@@ -2,10 +2,10 @@
 #### "Future Web Developer | Coding Solutions for Tomorrow's Web"
 I'm a web development student passionate about building clean, responsive, and user-friendly websites. I enjoy learning new technologies and applying them to create dynamic web experiences.
 
-Skills: HTML / CSS
+Skills: HTML / CSS / JavaScript
 
 - 🌱 I’m currently learning web devlopment. 
-- 💬 Ask me about html and css 
+- 💬 Ask me about html , css  and JavaScript
 - 📫 How to reach me: alifrayhan92@gmail.com 
 
 
